@@ -1,0 +1,161 @@
+body{
+    
+    background-color:rgb(255, 255, 255)  ;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+     
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3{
+    text-align: left;
+    font-style: italic;
+}
+
+
+#puntos{
+    color: white;
+}
+
+#p{
+    text-align: center;
+}
+
+
+#imagen1{
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+
+}
+#iconos{
+    width: 30px;
+    height: 30px;
+}
+
+
+#hidetextbtn{
+    background-color:beige;
+    height: 70px;
+    width: 700px;
+}
+    
+
+    
+#hidetextbtn:hover {
+    
+background:rgb(150, 150, 139);
+ }
+   
+    
+
+.hide{
+    display: none;
+}    
+
+.show{
+    display: block;
+}  
+
+/*comentario
+
+
+
+
+de 
+
+
+
+
+
+division*/
+
+
+.nav{
+    width: 1000px;
+    margin: 30px auto;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.ul1> li{
+    display:inline-block;
+
+}
+
+.ul1>li{
+    padding:15px 20px;
+    text-decoration: none;
+   
+   
+    
+
+}
+
+.ul1 li:hover {
+    color:#000000
+    
+}
+
+/*submenu*/
+
+
+.ul2{
+    position: absolute;
+     
+    width: 30%;
+    display: none;
+}
+
+.ul2 li{
+    display: block;
+    
+    padding: 15px;
+    
+    font-family: 'Open sans';
+
+}
+.ul1 li:hover .ul2{
+    display: block;
+}
+
+.menu{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: cadetblue;
+    background-color: rgb(165, 211, 196);
+}
+
+.cv{
+    font-size: large;
+    font-family:'Open sans';
+    color:#000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
